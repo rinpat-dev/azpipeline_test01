@@ -1,6 +1,6 @@
 # Simple Python script to print "Hello World"
 
-def say_hello():
+def test_function_sayhello():
   print("Hello World!")
 
-say_hello()
+test_function_sayhello()
